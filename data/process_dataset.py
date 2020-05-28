@@ -8,7 +8,7 @@ import argparse
 row = ['image_name', 'label']
 
 # Replace the name of directories with your name of directory
-directories = ['bangla', 'devanagari', 'telugu']
+directories = ['telugu']
 
 def ensure_directory(path):
 	""" 
